@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/user/Code/learncpp/chaps/chap3/3_8",
-      "program": "/Users/user/Code/learncpp/chaps/chap3/3_8/build/Debug/outDebug"
+      "cwd": "/Users/user/Code/learncpp/chaps/chap3/3_9",
+      "program": "/Users/user/Code/learncpp/chaps/chap3/3_9/build/Debug/outDebug"
     }
   ]
 }
