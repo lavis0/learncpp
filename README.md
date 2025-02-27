@@ -1,6 +1,6 @@
 # C++ Fundamentals
 
-To compensate for my lack of care when initially understanding coding languages (such as Java and C) in the past, I aim to use ***learncpp*** as a tool to cover a programming language in detail.
+To compensate for my lack of care when initially understanding coding languages (such as Java and C) in the past, I aim to use [***learncpp***](https://www.learncpp.com) as a tool to cover a programming language in detail.
 
 C++ was chosen under the following criteria:
 
@@ -47,3 +47,41 @@ The following are incomplete:
 [Chapter 26: Template Programming]()  
 [Chapter 27: Exception Safety]()  
 [Chapter 28: Input/Output Streams]()
+
+## Additional resources
+
+Along this journey, I have discoverd many valuable resources.
+
+### Language Specific
+
+Language guidelines, with sound reasoning:
+[C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-introduction)
+
+For C++ language reference:
+[C++ Reference](https://en.cppreference.com/w/)
+
+For active quizzing up to C++23:
+[C++ Quiz](https://cppquiz.org/)
+[GetCracked](https://getcracked.io/homepage)
+
+In depth compiler/compilation info:
+[Compiler Explorer](https://godbolt.org/)
+[C++ Insights](https://cppinsights.io/)
+
+### Programming Concepts
+
+For DSA:
+[NeetCode's DSA for Beginners](https://neetcode.io/courses/dsa-for-beginners/0)
+[NeetCode's Advanced DSA](https://neetcode.io/courses/advanced-algorithms/0)
+[LeetCode](https://leetcode.com/problemset/)
+
+For OOP:
+[NeetCode's Design Patterns](https://neetcode.io/courses/design-patterns/0)
+
+For OOP-style questions:
+[NeetCode's OOP Design Interview](https://neetcode.io/courses/ood-interview/0)
+
+
+
+
+
