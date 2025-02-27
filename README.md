@@ -15,7 +15,8 @@ Firstly, I will read and note each chapter summary. Once a given chapter summary
 
 ## Chapter Summaries
 
-For convenience, chapter summaries can be accessed below:\\
+For convenience, chapter summaries can be accessed below:\
+
 [Chapter 1 - Basic Syntax](chaps/chap01_basic_syntax.md)\
 [Chapter 2 - Functions and Files](chaps/chap02_func_n_files.md)\
 [Chapter 3 - Debugging](chaps/chap03_debugging.md)\
@@ -25,9 +26,10 @@ For convenience, chapter summaries can be accessed below:\\
 [Chapter 7 - Scope, Duration and Linkage](chaps/chap07_scope_duration_linkage.md)\
 [Chapter 8 - Control Flow](chaps/chap08_control_flow.md)\
 [Chapter 9 - Assertions and Error Handling](chaps/chap09_testing.md)\
-[Chapter 10 - Type Conversions, Aliases and Deduction](chaps/chap10_type_conversion_alias_deduct.md)\
+[Chapter 10 - Type Conversions, Aliases and Deduction](chaps/chap10_type_conversion_alias_deduct.md)
 
-The following are incomplete:\\
+The following are incomplete:\
+
 [Chapter 11: Function Overloading and Templates]()\
 [Chapter 12: Value Categories and References]()\
 [Chapter 13: Structs and Classes]()\
@@ -45,7 +47,7 @@ The following are incomplete:\\
 [Chapter 25: Polymorphism]()\
 [Chapter 26: Template Programming]()\
 [Chapter 27: Exception Safety]()\
-[Chapter 28: Input/Output Streams]()\
+[Chapter 28: Input/Output Streams]()
 
 ## Supporting resources
 
@@ -54,28 +56,28 @@ Along this journey, I have discoverd many valuable resources.
 ### Language Specific
 
 Language guidelines, with sound reasoning:\
-[C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-introduction)\
+[C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-introduction)
 
 For C++ language reference:\
 [C++ Reference](https://en.cppreference.com/w/)
 
 For active quizzing up to C++23:\
 [C++ Quiz](https://cppquiz.org/)\
-[GetCracked](https://getcracked.io/homepage)\
+[GetCracked](https://getcracked.io/homepage)
 
 In depth compiler/compilation info:\
 [Compiler Explorer](https://godbolt.org/)\
-[C++ Insights](https://cppinsights.io/)\
+[C++ Insights](https://cppinsights.io/)
 
 ### Programming Concepts
 
 For DSA:\
 [NeetCode's DSA for Beginners](https://neetcode.io/courses/dsa-for-beginners/0)\
 [NeetCode's Advanced DSA](https://neetcode.io/courses/advanced-algorithms/0)\
-[LeetCode](https://leetcode.com/problemset/)\
+[LeetCode](https://leetcode.com/problemset/)
 
 For OOP:\
-[NeetCode's Design Patterns](https://neetcode.io/courses/design-patterns/0)\
+[NeetCode's Design Patterns](https://neetcode.io/courses/design-patterns/0)
 
 For OOP-style questions:\
-[NeetCode's OOP Design Interview](https://neetcode.io/courses/ood-interview/0)\
+[NeetCode's OOP Design Interview](https://neetcode.io/courses/ood-interview/0)
