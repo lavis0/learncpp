@@ -26,11 +26,11 @@ A **data type** tells the compiler how to interpret data. An **integer** is a nu
 | Default-initialization        | `int x;`      | Indeterminate value           |
 | Copy-initialization           | `int x = 5;`  |                               |
 | Direct-initialization         | `int x(5);`   |                               |
-| Direct-list-initialization    | `int x{5};`   | No narrowing conversions       |
-| Copy-list-initialization      | `int x = {5};`| No narrowing conversions       |
+| Direct-list-initialization    | `int x{5};`   | No [narrowing conversions](https://www.learncpp.com/cpp-tutorial/narrowing-conversions-list-initialization-and-constexpr-initializers/)       |
+| Copy-list-initialization      | `int x = {5};`| No [narrowing conversions](https://www.learncpp.com/cpp-tutorial/narrowing-conversions-list-initialization-and-constexpr-initializers/)       |
 | Value-initialization          | `int x{};`    | Zero-initialization           |
 
-**std::cout** and `operator<<` handle console output. **std::endl** flushes output while `'\n'` does not.
+**std::cout** and `operator<<` handle console output. **std::endl** [flushes output](a "endl is equivalent to writing os.put(os.widen('\n')) followed by os.flush()") while `'\n'` does not.
 
 An **uninitialized variable** causes **undefined behavior** if accessed. C++ **keywords** cannot be used as identifiers.
 
