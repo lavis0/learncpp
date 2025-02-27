@@ -16,7 +16,6 @@ Firstly, I will read and note each chapter summary. Once a given chapter summary
 ## Chapter Summaries
 
 For convenience, chapter summaries can be accessed below:\
-
 [Chapter 1 - Basic Syntax](chaps/chap01_basic_syntax.md)\
 [Chapter 2 - Functions and Files](chaps/chap02_func_n_files.md)\
 [Chapter 3 - Debugging](chaps/chap03_debugging.md)\
@@ -29,7 +28,6 @@ For convenience, chapter summaries can be accessed below:\
 [Chapter 10 - Type Conversions, Aliases and Deduction](chaps/chap10_type_conversion_alias_deduct.md)
 
 The following are incomplete:\
-
 [Chapter 11: Function Overloading and Templates]()\
 [Chapter 12: Value Categories and References]()\
 [Chapter 13: Structs and Classes]()\
