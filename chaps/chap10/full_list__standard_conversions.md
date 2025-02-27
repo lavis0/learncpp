@@ -1,0 +1,18 @@
+# Standard conversions (C++23)
+
+| Category                | Standard Conversion           | Description                                                                 | Notes                                      |
+|-------------------------|--------------------------------|-----------------------------------------------------------------------------|--------------------------------------------|
+| Value transformation    | Lvalue-to-rvalue              | Converts lvalue to rvalue                                                   | [12.2 -- Value categories (lvalues and rvalues)](https://www.learncpp.com/cpp-tutorial/value-categories-lvalues-and-rvalues/) |
+| Value transformation    | Array-to-pointer              | Converts C-style array to pointer to first array element (array decay)      | [17.8 -- C-style array decay](https://www.learncpp.com/cpp-tutorial/c-style-array-decay/)                |
+| Value transformation    | Function-to-pointer           | Converts function to function pointer                                       | [20.1 -- Function Pointers](https://www.learncpp.com/cpp-tutorial/function-pointers/)                  |
+| Value transformation    | Temporary materialization     | Converts value to temporary object                                          | Not covered                                |
+| Qualification conversion | Qualification conversion      | Adds or removes const or volatile from types                                | Not covered                                |
+| Numeric promotions       | Integral promotions           | Converts smaller integral types to int or unsigned int                      | [10.2 -- Floating-point and integral promotion](https://www.learncpp.com/cpp-tutorial/floating-point-and-integral-promotion/) |
+| Numeric promotions       | Floating point promotions     | Converts float to double                                                    | [10.2 -- Floating-point and integral promotion](https://www.learncpp.com/cpp-tutorial/floating-point-and-integral-promotion/) |
+| Numeric conversions      | Integral conversions          | Integral conversions that aren't integral promotions                        | [10.3 -- Numeric conversions](https://www.learncpp.com/cpp-tutorial/numeric-conversions/)                |
+| Numeric conversions      | Floating point conversions    | Floating point conversions that aren't floating point promotions            | [10.3 -- Numeric conversions](https://www.learncpp.com/cpp-tutorial/numeric-conversions/)                |
+| Numeric conversions      | Integral-floating conversions | Converts integral and floating point types                                  | [10.3 -- Numeric conversions](https://www.learncpp.com/cpp-tutorial/numeric-conversions/)                |
+| Numeric conversions      | Boolean conversions           | Converts integral, unscoped enumeration, pointer, or pointer-to-member to bool | [4.10 -- Introduction to if statements](https://www.learncpp.com/cpp-tutorial/introduction-to-if-statements/)      |
+| Pointer conversions      | Pointer conversions           | Converts std::nullptr to pointer, or pointer to void pointer or base class  | Not covered                                |
+| Pointer conversions      | Pointer-to-member conversions | Converts std::nullptr to pointer-to-member or base class to derived class   | Not covered                                |
+| Pointer conversions      | Function pointer conversions  | Converts pointer-to-noexcept-function to pointer-to-function                | Not covered                                |
