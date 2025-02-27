@@ -48,7 +48,7 @@ The following are incomplete:
 [Chapter 27: Exception Safety]()  
 [Chapter 28: Input/Output Streams]()
 
-## Additional resources
+## Supporting resources
 
 Along this journey, I have discoverd many valuable resources.
 
@@ -80,8 +80,3 @@ For OOP:
 
 For OOP-style questions:
 [NeetCode's OOP Design Interview](https://neetcode.io/courses/ood-interview/0)
-
-
-
-
-
