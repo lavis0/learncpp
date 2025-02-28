@@ -25,10 +25,11 @@ For convenience, chapter summaries can be accessed below:\
 [Chapter 7 - Scope, Duration and Linkage](chaps/chap07_scope_duration_linkage.md)\
 [Chapter 8 - Control Flow](chaps/chap08_control_flow.md)\
 [Chapter 9 - Assertions and Error Handling](chaps/chap09_testing.md)\
-[Chapter 10 - Type Conversions, Aliases and Deduction](chaps/chap10_type_conversion_alias_deduct.md)
+[Chapter 10 - Type Conversions, Aliases and Deduction](chaps/chap10_type_conversion_alias_deduct.md)\
+[Chapter 11: Function Overloading and Templates](chaps/chap11_func_overloading.md)\
+[Chapter F: `constexpr` and `consteval`](chaps/chap11F_constexpr_n_consteval.md)
 
 The following are incomplete:\
-[Chapter 11: Function Overloading and Templates]()\
 [Chapter 12: Value Categories and References]()\
 [Chapter 13: Structs and Classes]()\
 [Chapter 14: Class Features]()\
