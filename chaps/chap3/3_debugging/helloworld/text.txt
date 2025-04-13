@@ -1,0 +1,6 @@
+/bin/zsh -c
+/opt/homebrew/Cellar/llvm/19.1.7/bin/clang++ -Wall -Wextra -Wpedantic -Wshadow -Wformat=2 -Wcast-align -Wconversion -Wsign-conversion -Wnull-dereference -Werror --std=c++17 -g3 -O0 -c /Users/user/Code/3_debugging/helloworld/main.cpp
+
+-o ./build/Debug/main.o
+&&
+/opt/homebrew/Cellar/llvm/19.1.7/bin/clang++ -Wall -Wextra -Wpedantic -Wshadow -Wformat=2 -Wcast-align -Wconversion -Wsign-conversion -Wnull-dereference -Werror --std=c++17 -g3 -O0   ./build/Debug/main.o -o ./build/Debug/outDebug

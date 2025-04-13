@@ -1,1 +1,6 @@
 .vscode
+
+native-cpp-library/Matrix/build/
+
+native-cpp-library/code-examples/
+
