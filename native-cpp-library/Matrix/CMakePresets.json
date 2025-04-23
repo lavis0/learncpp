@@ -1,0 +1,21 @@
+{
+    "version": 6,
+    "cmakeMinimumRequired": {
+      "major": 3,
+      "minor": 10,
+      "patch": 0
+    },
+    "configurePresets": [
+      {
+        "name": "clang-ninja",
+        "displayName": "Ninja + Clang++",
+        "description": "Configure using Ninja generator and clang++ as CXX",
+        "generator": "Ninja",
+        "binaryDir": "${sourceDir}/build",
+        "cacheVariables": {
+          "CMAKE_CXX_COMPILER": "clang++"
+        }
+      }
+    ]
+  }
+  

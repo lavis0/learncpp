@@ -1,6 +1,9 @@
-cmake_minimum_required(VERSION 3.5)
+cmake_minimum_required(VERSION 3.10)
 
 project(Matrix LANGUAGES CXX)
+
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
 
 # ===================================================================
 # Download, configure, build and install locally our external dependencies.

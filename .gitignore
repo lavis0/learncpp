@@ -2,5 +2,6 @@
 
 native-cpp-library/Matrix/build/
 
-native-cpp-library/code-examples/
+native-cpp-library/examples/
 
+native-cpp-library/Matrix/.cache/
